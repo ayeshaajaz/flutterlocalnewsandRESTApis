@@ -1,0 +1,5 @@
+-r base.txt
+boto3==1.17.40
+django-anymail[amazon_ses]
+django-s3-storage==0.13.4
+whitenoise==5.2.0
